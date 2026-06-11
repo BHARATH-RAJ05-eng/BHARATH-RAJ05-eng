@@ -20,7 +20,7 @@
 
 | 🛠 Shipped Products | 🎯 Best Model Accuracy | 🧪 ML Internships | 🎓 CGPA |
 |:---:|:---:|:---:|:---:|
-| 5+ | 89% | 2 | 8.8/10 |
+| 5+ | 89% | 2 | 9/10 |
 
 ---
 
